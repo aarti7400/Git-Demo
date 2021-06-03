@@ -12,7 +12,7 @@ def subtract(x,y):	#main
 
 # mul Imlementation
 def multiply(x,y):
-    pass
+    return x*y
 
 # div Imlementation
 def divide(x,y):
